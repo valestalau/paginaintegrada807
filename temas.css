@@ -1,10 +1,10 @@
 .encabezado{
-    background-color: rgba(179, 51, 89, 0.774);
+    background-color: rgb(238, 41, 238);
     width: 100%;
     height: 1400px   ;
 }
 .menu{
-    background-color: rgb(91, 167, 218);
+    background-color: rgb(236, 19, 207);
     width: 100%;
     height: 150px;
     font-size: 120px;
@@ -12,21 +12,21 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .menu2{
-    background-color: rgb(206, 124, 206);
+    background-color: rgb(63, 193, 233);
     width: 100%;
     height: 100px;
     display: flex;
 }
 .Tecnologia{
-    background-color: blueviolet;
+    background-color: rgb(154, 75, 228);
     width: 260px;
     height: 80px;
     margin: 10px;
     font-size: 50px;
     text-align: center;
 }
-.Matematicas{
-    background-color: blueviolet;
+.Biologia{
+    background-color: rgb(152, 89, 211);
     width: 260px;
     height: 80px;
     margin: 10px;
@@ -34,7 +34,7 @@
     text-align: center;
 }
 .Ingles{
-    background-color: blueviolet;
+    background-color: rgb(159, 100, 214);
     width: 260px;
     height: 80px;
     margin: 10px;
@@ -42,24 +42,23 @@
     text-align: center;
 }
 .contenedor{
-    background-color: pink;
+    background-color: black;
     width: 100%;
     height: 1200px;
     display: flex;
 }
 .izq{
-    background-color: rgb(36, 145, 127);
+    background-color: rgb(207, 17, 182);
     width: 20%;
     height: 1200px;
 }
 .center{
-    background-color: pink;
+    background-color: rgb(77, 26, 216);
     width: 60%;
     height: 1200px;
 }
 .derecha{
-    background-color: rgb(218, 88, 157);
+    background-color: rgb(138, 56, 117);
     width: 20%;
     height: 1200px;
 }
-
