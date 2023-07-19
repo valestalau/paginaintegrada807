@@ -63,3 +63,53 @@
      
     
    } 
+   .contenido{
+
+    height: 280px;
+    
+    width: 100%;
+    
+    position: absolute;
+    
+    top: 410px;
+    
+     
+    
+    }
+    
+     
+    
+    .imagentecno{
+    
+     
+    
+    background-repeat: no-repeat;
+    
+    float:left;
+    
+    height: 200px;
+    
+    width: 260px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("operador\ electronico.png");
+    
+    }
+    
+    
+    
+    .textotecno{
+    
+    text-align: justify;
+    
+    color: rgb(247, 242, 242);
+    
+    font-size: 20px;
+    
+    
+    
+    }
+    
