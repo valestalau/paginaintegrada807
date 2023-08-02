@@ -13,7 +13,7 @@
     
     background-image: url("imagen.jpg");
     
-    background-repeat: no-repeat;
+    
     background-size: cover;
     
     }
@@ -58,7 +58,7 @@
     
     text-align: justify;
     
-    color: brown;
+    color: rgb(221, 46, 15);
     
      
     
@@ -73,7 +73,8 @@
     
     top: 410px;
     
-     
+    margin-left: -100px; 
+    float: 900px;
     
     }
     
@@ -105,11 +106,29 @@
     
     text-align: justify;
     
-    color: rgb(214, 53, 41);
+    color: rgb(230, 219, 218);
     
-    font-size: 20px;
+    height: 200px;
     
+    width: 80%;
+    
+    position: left;
+    
+    top: 410px;
+    
+    margin-left: 190px; 
+    float: 700px;
+
+
     
     
     }
+    .audio{
+        position: relative;
+        top: 990px;
+        height: 1200px;
+        margin-left: 190px;
+        
+    } 
+      
     
