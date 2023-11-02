@@ -106,7 +106,7 @@
     
     text-align: justify;
     
-    color: rgb(230, 219, 218);
+    color: rgb(231, 228, 230);
     
     height: 200px;
     
@@ -129,9 +129,23 @@
         height: 1200px;
         margin-left: 190px;
         
-    } 
+    }
       
     .vd1{
 
-        margin-left: 121px;
+        margin-left: 300px;
+
+    
+    } 
+      .contenido{
+
+        margin-left: 10px;
+        
+
+    
+     
     }
+
+
+
+      
